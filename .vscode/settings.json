@@ -1,0 +1,6 @@
+{
+    "terminal.integrated.env.osx": {
+        "PATH": "/Users/bradenmars/.platformio/penv/bin:/Users/bradenmars/.platformio/penv:/Users/bradenmars/.fastlane/bin:/usr/local/Cellar/ruby/2.5.3_1/bin:/usr/local/opt/openssl/bin:/usr/local/opt:/Users/bradenmars/bin:/usr/local/bin:/usr/local/opt:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/bradenmars/.android/avd:/Users/bradenmars/Library/Android/sdk/emulator:/Users/bradenmars/Library/Android/sdk/tools:/Users/bradenmars/Library/Android/sdk/tools/bin:/Users/bradenmars/Library/Android/sdk/platform-tools",
+        "PLATFORMIO_CALLER": "vscode"
+    }
+}
